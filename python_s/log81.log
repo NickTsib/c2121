@@ -1,0 +1,5 @@
+We have new logging message:2024-11-09 10:54:35,184:DEBUG:debug
+We have new logging message:2024-11-09 10:54:35,184:INFO:info
+We have new logging message:2024-11-09 10:54:35,184:WARNING:warning
+We have new logging message:2024-11-09 10:54:35,184:ERROR:error
+We have new logging message:2024-11-09 10:54:35,184:CRITICAL:critical
